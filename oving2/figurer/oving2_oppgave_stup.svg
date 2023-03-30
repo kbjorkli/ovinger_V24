@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="oving2_oppgave_stup.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="173.90731"
+     inkscape:cy="294.00741"
+     inkscape:window-width="1368"
+     inkscape:window-height="850"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="7.2124891"
+       markerHeight="7.2124891"
+       viewBox="0 0 7.2124892 7.2124892"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="Diamond1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="7.2124891"
+       markerHeight="7.2124891"
+       viewBox="0 0 7.2124892 7.2124892"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="Diamond1-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 29.104166,46.302084 H 50.270833 V 91.28125 H 71.4375 m 0,42.33334 v 0"
+       id="path252"
+       sodipodi:nodetypes="cccccc" />
+    <g
+       id="g3731"
+       transform="matrix(0.49796534,0,0,0.68642013,23.898634,14.519402)"
+       style="stroke-width:1.71043"
+       inkscape:export-filename="oving2_oppgave_stup.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.452551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.041667,46.302083 5.291666,-7.9375 2.394346,4.788691 -2.394346,3.148809"
+         id="path362"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.452551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 42.333333,38.364583 v -7.9375"
+         id="path364" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.452551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 42.333333,31.75 39.6875,34.395833 h 7.937499"
+         id="path366" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.453264;stroke-dasharray:none"
+         id="path516"
+         cx="42.333332"
+         cy="27.8475"
+         rx="1.3229166"
+         ry="2.5795827" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Diamond);marker-start:url(#Diamond)"
+       d="M 27.78125,46.302083 V 91.281249"
+       id="path2524" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Diamond-0);marker-end:url(#Diamond-0)"
+       d="M 70.445312,93.927083 H 51.263021"
+       id="path2524-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.9389px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:none;stroke-width:0.264583"
+       x="22.868538"
+       y="70.056709"
+       id="text2847"><tspan
+         sodipodi:role="line"
+         id="tspan2845"
+         style="stroke-width:0.264583"
+         x="22.868538"
+         y="70.056709">h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.9389px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:none;stroke-width:0.264583"
+       x="59.505062"
+       y="97.837959"
+       id="text3725"><tspan
+         sodipodi:role="line"
+         id="tspan3723"
+         style="stroke-width:0.264583"
+         x="59.505062"
+         y="97.837959">d</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 48.947916,44.979166 h 11.90625"
+       id="path3733" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.9389px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:none;stroke-width:0.264583"
+       x="51.59375"
+       y="41.010418"
+       id="text3799"><tspan
+         sodipodi:role="line"
+         id="tspan3797"
+         style="stroke-width:0.264583"
+         x="51.59375"
+         y="41.010418">v<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3851">0</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 71.437499,91.281249 V 101.86458"
+       id="path5377" />
+    <rect
+       style="fill:#00ffff;stroke:#00ffff;stroke-width:0.264999;stroke-dasharray:none"
+       id="rect7061"
+       width="15.875"
+       height="6.614583"
+       x="71.7379"
+       y="95.20356" />
+  </g>
+</svg>
