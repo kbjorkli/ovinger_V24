@@ -3,7 +3,7 @@
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Øving 2_V24</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>Øving 4_V24</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 
 
@@ -14259,90 +14259,116 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="&#216;ving-2">&#216;ving 2<a class="anchor-link" href="#&#216;ving-2">&#182;</a></h1>
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Oppgave-1">Oppgave 1<a class="anchor-link" href="#Oppgave-1">&#182;</a></h2><center><img src="figurer/oving2_oppgave_stup.png" alt="" style="width: 250px;"/></center><p>En modig svømmer stuper fra en klippe som har et horisontalt utspring som vist i figuren ovenfor. Utspringet har bredde $d=1,75 \text{ m}$  bredt og befinner seg en høyde $h=9,00 \text{ m}$ nedenfor toppen av klippen.</p>
-<p>Hvor høy horisontal hastighet $v_0$ må svømmeren minst ha på toppen av klippen for å akkurat unngå utspringet?</p>
+<h1 id="&#216;ving-4">&#216;ving 4<a class="anchor-link" href="#&#216;ving-4">&#182;</a></h1><h2 id="Oppgave-1">Oppgave 1<a class="anchor-link" href="#Oppgave-1">&#182;</a></h2><p>Kula i et flipperspill skytes ut fra en fjærbelastet avtrekker. Spilleren trekker i fjæra slik at den presses sammen en avstand $x=7,0 \textrm{ cm}$. Flipperspillet har en helningsvinkel $\theta=15^{\circ}$. Se figuren under.</p>
+<center><img src="figurer/pinball_fjær.png" alt="" style="width: 500px;"/></center><p>Hvor stor må fjærkonstanten $k$ til fjæra være dersom kula akkurat skal nå toppen av flipperspillet, som ligger en avstand $s=78 \textrm{ cm}$ fra punktet der kula forlater fjæra (i punktet der fjæra er slapp)?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Oppgave-2">Oppgave 2<a class="anchor-link" href="#Oppgave-2">&#182;</a></h2><p>a) To fjærdrevne kanoner med munninger i samme punkt avfyres samtidig. De skyter kuler med samme startfart, men i hver sin vinkel, som illustrert i figuren under. Begge kanoner har munning på bakkenivå, samme som blinkene A og B. Den grønne kanonen skyter mer vertikalt mot blink A, mens den blå skyter mer horisontalt mot blink B. Vi ser bort i fra luftmotstand.</p>
-<center><img src="figurer/oving2_to_ulike_startvinkler.png" alt="" style="width: 250px;"/></center><p>Hvilke av følgende påstander er riktige?</p>
-<p>A. Den grønne kanonen treffer blink A først.</p>
-<p>B. Den blå kanonen treffer blink B først.</p>
-<p>C. Blinkene treffes samtidig.</p>
-<p>D. Den blå kula treffer blink med større fart enn den grønne.</p>
-<p>E. Kulene treffer blinkene med samme fart.</p>
+<h2 id="Oppgave-2">Oppgave 2<a class="anchor-link" href="#Oppgave-2">&#182;</a></h2><p>En vogn i en berg-og-dalbane starter i en viss høyde $h$ over det laveste punktet A i en sirkulær loop med radius $R$. To andre punkter i loopen er markerte: B er midtveis oppe, og C er det høyeste punktet. Se figuren under.</p>
+<center><img src="figurer/oppgave_sirkelbevegelse_vogn_loop.png" alt="" style="width: 400px;"/></center><p>I denne oppgaven skal vi se bort fra friksjon og luftmotstand.</p>
+<p>a) Fra hvilken høyde $h$ over punkt A må vogna slippes for at den skal kunne fullføre en hel loop uten å miste kontakten med underlaget?</p>
+<p>b) Hva er normalkrafta på vogna i det høyeste punktet i loopen dersom den slippes fra en starthøyde $h=3R$?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Oppgave-3">Oppgave 3<a class="anchor-link" href="#Oppgave-3">&#182;</a></h1><p>En fjærkanon skyter en kule med startfart $v_0$  mot en blink som ligger i en horisontal avstand 
-$x$  og vertikal avstand $y$  fra munningen, som illustrert i figuren under.</p>
-<center><img src="figurer/oppgave_skrått_kast.png" alt="" style="width: 250px;"/></center><p>a) Sett opp en trigonometrisk likning for utskytingsvinkelen, $α$, uttrykt ved $v_0$, $x$ og $y$.</p>
-<p>b) Vi skal løse likninga numerisk i Python ved hjep av funksjonen fsolve fra pakken scipy.optimize. Denne forutsetter at likninga som skal løses, skrives på formen $f(x)=0$, dvs. $f(x)$ er venstresiden i likninga når alle ledd er flyttet over slik at høyresiden er null.</p>
-<p>Bestem funksjonen $f(\alpha)$ for å kunne løse likninga i a) ved hjelp av fsolve.</p>
-<p>c) Hva må utskytingsvinkelen $\alpha$ være for at kula skal treffe midt i blinken dersom startfarten $v_0 = 4,0 \text{ m/s}$, $x = 1,5 \text{ m}$ og $y = 0,40 \text{ m}$? NB! Det kan finnes flere gyldige vinkler. Eksempelkoden nederst viser et eksempel på bruken av fsolve.</p>
+<h2 id="Oppgave-3">Oppgave 3<a class="anchor-link" href="#Oppgave-3">&#182;</a></h2><p>To curlingsteiner A og B med identisk masse $m=19 \textrm{ kg}$ kolliderer i et rett, sentralt støt. Før støtet har stein A fart $v_{\text{A}}=3,0 \textrm{ m/s}$ mot høyre og stein B fart $v_{\text{B}}=5,0 \textrm{ m/s}$ mot venstre, og etter støtet har stein A fart $v_{\text{A}}=1,0 \textrm{ m/s}$ mot venstre. Se figuren under.</p>
+<center><img src="figurer/curlingsteiner_kolliderer.png" alt="" style="width: 400px;"/></center><p>a) Finn farten til stein B etter støtet.</p>
+<p>b) Var støtet elastisk?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Oppgave-4">Oppgave 4<a class="anchor-link" href="#Oppgave-4">&#182;</a></h2><p>a) En bil starter med null startfart og kjører med jevnt økende banefart i en sirkelformet rundkjøring. En passasjer i bilen bruker akselerometrene i mobiltelefonen til å måle baneakselersjonen $a_{\parallel}$ og sentripetalakselerasjonen $a_{\perp}$ til bilen som funksjon av tiden.</p>
-<p>Hvilken av grafene under viser $a_{\parallel}(t)$ og $a_{\perp}(t)$ for bilen?</p>
-<center><img src="figurer/oving2_oppgave_sirkelbevegelse_akselerasjon.png" alt="" style="width: 600px;"/></center><p>b) Hvor stor er baneakselerasjonen $a_{\parallel}$, sentripetalakselerasjonen $a_{\perp}$ og den totale akselerasjonen $a=|\vec{a}|=|\vec{a}_{\parallel}+\vec{a}_{\perp}|$ idet banefarten er $60 \textrm{ km/h}$ dersom sirkelradien er $60 \textrm{ m}$ og bilens banefart øker jevnt fra null til $60 \textrm{ km/h}$?</p>
+<h2 id="Oppgave-4">Oppgave 4<a class="anchor-link" href="#Oppgave-4">&#182;</a></h2><p>To fallskjermhoppere A og B med identiske masser $m=70 \textrm{ kg}$ faller vertikalt fra samme starthøyde. A faller med hodet først og har frontareal $A=0,17 \textrm{ m}^2$ og "drag-koeffisient" $C_d=0,70$; B faller liggende og har $A=1,0 \textrm{ m}^2$ og $C_d=1,0$. Vi forutsetter kvadratisk luftmotstand $F_D=\frac{1}{2} \rho A C_d v^2$, og tyngdeakselerasjonen $g$ kan antas konstant over fallhøyden.</p>
+<p>a) Finn ved regning terminalhastighetene for A og B.</p>
+<p>I de to siste oppgavene skal vi bruke Python til å løse bevegelseslikningene numerisk.</p>
+<p>b) Gitt følgende Python-funksjon som beregner luftmotstanden (drag) som funksjon av frontareal $A$, drag-koeffisient $C_d$ og fart $v$, for en gitt (konstant) verdi av luftas massetetthet $\rho$:</p>
+
+<pre><code>
+ def drag(A,C,v):
+    rho=1.28 
+    k=0.5*rho*A*C
+    ?</code></pre>
+<p>Hvilken Python-kode skal stå i linja markert med ? for at funksjonen skal gi luftmotstanden i newton som funksjon av inndataene?</p>
+<p>A. <code>return k*v**2</code>
+B. <code>return k*(v/3.6)**2</code>
+C. <code>return k*(v/3,6)**2</code>
+D. <code>return k*(v*3.6)**2</code>
+E. <code>return k*(v*3,6)**2</code></p>
+<p>c) Ta utgangspunkt i den ferdige rutinen for Eulers metode med tidssteg $\Delta t = 0,10 \textrm{ s}$ til å beregne tiden $t$ det tar det før hopperne har nådd 98 % av sine terminalhastigheter, og strekningen $s$ hopperen har falt på dette tidspunktet (målt fra startpunktet).</p>
 
 </div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Oppgave-5">Oppgave 5<a class="anchor-link" href="#Oppgave-5">&#182;</a></h2><p>Et trafikklys med masse $m$ henger i to identiske tau som danner en vinkel $\theta$ med horisontalplanet, som vist på figuren under.</p>
-<center><img src="figurer/oppgave_skilt_statikk.png" alt="" style="width: 400px;"/></center><p>a) Vinkelen $\theta$ kan justeres ved å gjøre tauene kortere/lengre, dvs. strammere/slakkere. Finn snordraget som funksjon av vinkelen $\theta$. Hva skjer med snordraget når $\theta \rightarrow 0$?</p>
-<p>b) Bestem draget i hvert tau dersom $m=50 \textrm{ kg}$ og $\theta=30^{\circ}$.</p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Eksempelkode:-L&#248;se-likninger-i-Python">Eksempelkode: L&#248;se likninger i Python<a class="anchor-link" href="#Eksempelkode:-L&#248;se-likninger-i-Python">&#182;</a></h2><p>Funksjonen fsolve fra Python-pakken scipy.optimize løser likninger ved å finne nullpunkter til en funksjon. Likninga må skrives som $f(x)=0$, der venstresiden i likninga utgjør $f(x)$. Ettersom fsolve bruker Newtons metode, må vi oppgi et startpunkt som 'gjetning' på hvor nullpunktet er. Dersom funksjonen har flere nullpunkter, må vi angi forskjellige startpunkter i nærheten av de ulike nullpunktene for å beregne disse.</p>
-
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Importerer nødvendige pakker</span>
-<span class="kn">from</span> <span class="nn">scipy.optimize</span> <span class="kn">import</span> <span class="n">fsolve</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Rutiner for simulering av vertikalt fall med luftmotstand. I dette eksemplet er positiv retning nedover.</span>
+
 <span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
 <span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
 
-<span class="c1">#Definerer funksjonen som angir venstresiden i likninga f(x)=0 som skal løses; her 5cos(x)+x = 0</span>
-<span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-    <span class="k">return</span> <span class="mi">5</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">cos</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="o">+</span> <span class="n">x</span>
+<span class="c1"># Globale konstanter</span>
+<span class="n">m</span><span class="o">=</span><span class="mi">70</span> <span class="c1">#Legemets masse i kg</span>
+<span class="n">g</span><span class="o">=</span><span class="mf">9.81</span> <span class="c1">#Tyngdeakselerasjonen i m/s^2</span>
 
-<span class="c1">#Tegner funksjonen for å få et bilde av løsningene:</span>
-<span class="n">t</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="o">-</span><span class="mi">5</span><span class="p">,</span><span class="mi">5</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">axis</span><span class="p">([</span><span class="o">-</span><span class="mi">5</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="o">-</span><span class="mi">10</span><span class="p">,</span><span class="mi">10</span><span class="p">])</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">grid</span><span class="p">()</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">axhline</span><span class="p">(</span><span class="n">color</span><span class="o">=</span><span class="s1">&#39;black&#39;</span><span class="p">,</span> <span class="n">lw</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">t</span><span class="p">,</span><span class="n">f</span><span class="p">(</span><span class="n">t</span><span class="p">))</span>
+<span class="k">def</span> <span class="nf">drag</span><span class="p">(</span><span class="n">A</span><span class="p">,</span><span class="n">C</span><span class="p">,</span><span class="n">v</span><span class="p">):</span>
+    <span class="n">rho</span><span class="o">=</span><span class="mf">1.28</span> 
+    <span class="n">k</span><span class="o">=</span><span class="mf">0.5</span><span class="o">*</span><span class="n">rho</span><span class="o">*</span><span class="n">A</span><span class="o">*</span><span class="n">C</span>
+    <span class="c1">#? Her må du legge inn riktig kode for at funksjonen skal returnere luftmotstanden (drag) i newton</span>
 
-<span class="c1">#Ser at en løsning ligger i nærheten av x=-1; en annen i nærheten av x=2</span>
-<span class="n">start</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span>
-<span class="n">sol</span> <span class="o">=</span> <span class="n">fsolve</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="n">start</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Løsning i nærheten av x=-1: &quot;</span><span class="p">,</span><span class="n">sol</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+<span class="k">def</span> <span class="nf">dXdt</span><span class="p">(</span><span class="n">X</span><span class="p">):</span>
+   <span class="sd">&quot;&quot;&quot;Funksjonen dXdt beregner høyresiden f(X) i differensiallikningssystemet; dX/dt=f(X).</span>
+<span class="sd">   Input:</span>
+<span class="sd">   X:  X=[y,v] en vektor som inneholder posisjon y og (vertikal) fart v. Med positiv retning nedover er v &gt; 0 og y &lt; 0 </span>
+<span class="sd">   for et legeme som faller vertikalt mot bakken, der y = 0.</span>
+<span class="sd">   </span>
+<span class="sd">   Output:</span>
+<span class="sd">   [dydt,dvdt]: Array med nye verdier for hastighet (dydt) og akselerasjon (dvdt)</span>
+<span class="sd">   &quot;&quot;&quot;</span>
+   <span class="n">y</span> <span class="p">,</span> <span class="n">v</span> <span class="o">=</span><span class="n">X</span>        <span class="c1">#Koordinater y og v hentes fra inndatavektor X</span>
+   <span class="n">f</span><span class="o">=</span><span class="n">drag</span><span class="p">(</span><span class="n">A</span><span class="p">,</span><span class="n">C</span><span class="p">,</span><span class="n">v</span><span class="p">)</span>   <span class="c1">#Luftmotstand i N</span>
+   <span class="n">dydt</span><span class="o">=</span><span class="n">v</span>          <span class="c1">#Sammenhengen mellom y og v er at v = dy/dt</span>
+   <span class="n">dvdt</span><span class="o">=-</span><span class="n">f</span><span class="o">/</span><span class="n">m</span><span class="o">+</span><span class="n">g</span>     <span class="c1">#Akselerasjonen a=dv/dt, fra Newtons 2. lov</span>
+   <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="n">dydt</span><span class="p">,</span><span class="n">dvdt</span><span class="p">])</span>
 
-<span class="n">start</span> <span class="o">=</span> <span class="mi">2</span>
-<span class="n">sol</span> <span class="o">=</span> <span class="n">fsolve</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="n">start</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Løsning i nærheten av x=2: &quot;</span><span class="p">,</span><span class="n">sol</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+<span class="k">def</span> <span class="nf">euler</span><span class="p">(</span><span class="n">t0</span><span class="p">,</span><span class="n">y0</span><span class="p">,</span><span class="n">v0</span><span class="p">,</span><span class="n">dt</span><span class="p">):</span>
+    <span class="sd">&quot;&quot;&quot;Funksjon som bruker Eulers metode til å løse et system av differensiallikninger dX/dt = f(X), der X =[y,v] er</span>
+<span class="sd">    en vektor som inneholder posisjons- og hastighetsvariable. </span>
+<span class="sd">    Input: </span>
+<span class="sd">    t0: Starttid [s]</span>
+<span class="sd">    y0: Startverdi for y [m]</span>
+<span class="sd">    v0: Vertikal startfart [m/s]</span>
+<span class="sd">    dt: Tidssteg [s]</span>
+
+<span class="sd">    Output:</span>
+<span class="sd">    t_liste: array med t-verdier,[t0,...tn]</span>
+<span class="sd">    y_liste: array med y-verdier, [y0,...,yn]</span>
+<span class="sd">    v_liste: array med v-verdier, [v0,...,vn]</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+
+    <span class="n">X0</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="n">y0</span><span class="p">,</span><span class="n">v0</span><span class="p">])</span> <span class="c1">#X0 er en vektor med posisjon og fart ved t=t0</span>
+    <span class="n">t_liste</span><span class="o">=</span><span class="p">[</span><span class="mf">0.0</span><span class="p">]</span><span class="c1"># Liste med t-verdier</span>
+    <span class="n">y_liste</span><span class="o">=</span><span class="p">[</span><span class="n">y0</span><span class="p">]</span><span class="c1"># liste med y-verdier</span>
+    <span class="n">v_liste</span><span class="o">=</span><span class="p">[</span><span class="n">v0</span><span class="p">]</span> <span class="c1"># liste med v-verdier</span>
+    <span class="n">X</span><span class="o">=</span><span class="n">X0</span>  <span class="c1"># initierer loop</span>
+    <span class="n">t</span><span class="o">=</span><span class="n">t0</span>
+    <span class="n">y</span><span class="o">=</span><span class="n">y0</span>
+    <span class="k">while</span> <span class="n">y</span><span class="o">&lt;=</span><span class="mi">0</span><span class="p">:</span> <span class="c1">#Loop kjøres inntil legemet treffer bakken; med pos. retning nedover er y0 &lt; 0</span>
+        <span class="n">Xn</span><span class="o">=</span><span class="n">X</span><span class="o">+</span><span class="n">dt</span><span class="o">*</span><span class="n">dXdt</span><span class="p">(</span><span class="n">X</span><span class="p">)</span> <span class="c1">#Beregner neste steg Xn i Euler-metoden</span>
+        <span class="n">y</span><span class="o">=</span><span class="n">Xn</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="c1">#Henter ut y-koordinat fra array</span>
+        <span class="n">v</span><span class="o">=</span><span class="n">Xn</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="c1">#Henter ut fart v fra array</span>
+        <span class="n">t_liste</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">t</span><span class="p">)</span> <span class="c1"># t-verdi legges til liste</span>
+        <span class="n">y_liste</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">y</span><span class="p">)</span><span class="c1"># y-verdi legges til liste</span>
+        <span class="n">v_liste</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">v</span><span class="p">)</span><span class="c1"># v-verdi legges til liste</span>
+        <span class="n">t</span><span class="o">=</span><span class="n">t</span><span class="o">+</span><span class="n">dt</span> <span class="c1">#Ny tidsverdi</span>
+        <span class="n">X</span><span class="o">=</span><span class="n">Xn</span> <span class="c1">#Ny verdi for X </span>
+    <span class="k">return</span> <span class="n">t_liste</span><span class="p">,</span><span class="n">y_liste</span><span class="p">,</span><span class="n">v_liste</span>
 </pre></div>
 
      </div>
@@ -14350,41 +14376,36 @@ $x$  og vertikal avstand $y$  fra munningen, som illustrert i figuren under.</p>
 </div>
 </div>
 
-<div class="jp-Cell-outputWrapper">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Eksempel på bruk av rutinene</span>
+<span class="c1">#Initialiserer variable </span>
+<span class="n">t0</span><span class="o">=</span><span class="mf">0.0</span> <span class="c1">#t = 0 i startpunktet</span>
+<span class="n">v0</span><span class="o">=</span><span class="mi">0</span> <span class="c1">#Startfart</span>
+<span class="n">y0</span><span class="o">=-</span><span class="mi">1000</span> <span class="c1">#Med positiv retning nedover, er y-verdier negative over bakken. Her starter fallet 1,0 km over bakken.</span>
+<span class="n">dt</span><span class="o">=</span><span class="mf">0.01</span> <span class="c1">#Tidssteg</span>
+<span class="n">A</span><span class="o">=</span><span class="mf">0.9</span> <span class="c1">#Frontareal</span>
+<span class="n">C</span><span class="o">=</span><span class="mf">0.8</span> <span class="c1">#Drag-koeffisient</span>
 
+<span class="c1">#Bruker Eulers metode til å generere sammenhengende verdier for t, y og v</span>
+<span class="n">t_liste</span><span class="p">,</span><span class="n">y_liste</span><span class="p">,</span><span class="n">v_liste</span><span class="o">=</span><span class="n">euler</span><span class="p">(</span><span class="n">t0</span><span class="p">,</span><span class="n">y0</span><span class="p">,</span><span class="n">v0</span><span class="p">,</span><span class="n">dt</span><span class="p">)</span>
 
-<div class="jp-OutputArea jp-Cell-outputArea">
+<span class="c1">#Plotter fartsgraf v(t)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span> <span class="o">=</span> <span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="mi">8</span><span class="p">))</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">t_liste</span><span class="p">,</span><span class="n">v_liste</span><span class="p">,</span><span class="n">color</span><span class="o">=</span><span class="s2">&quot;red&quot;</span><span class="p">,</span><span class="n">label</span><span class="o">=</span><span class="s1">&#39;A = &#39;</span><span class="o">+</span><span class="nb">str</span><span class="p">(</span><span class="n">A</span><span class="p">)</span><span class="o">+</span><span class="s2">&quot;, C = &quot;</span><span class="o">+</span><span class="nb">str</span><span class="p">(</span><span class="n">C</span><span class="p">))</span> <span class="c1">#Diagrammet angir hvilke verdier for A og C som er tilhører grafen</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s2">&quot;Tid [s]&quot;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s2">&quot;Fart [m/s]&quot;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">()</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</pre></div>
 
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>Løsning i nærheten av x=-1:  -1.306440008369511
-Løsning i nærheten av x=2:  1.977383029328841
-</pre>
+     </div>
 </div>
 </div>
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-
-
-<div class="jp-RenderedImage jp-OutputArea-output ">
-<img src="data:image/png;base64,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"
->
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 </div>
