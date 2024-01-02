@@ -14264,14 +14264,14 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Oppgave-1">Oppgave 1<a class="anchor-link" href="#Oppgave-1">&#182;</a></h2><center><img src="figurer/oving2_oppgave_stup.png" alt="" style="width: 250px;"/></center><p>En modig svømmer stuper fra en klippe som har et horisontalt utspring som vist i figuren ovenfor. Utspringet har bredde $d=1,75 \text{ m}$  bredt og befinner seg en høyde $h=9,00 \text{ m}$ nedenfor toppen av klippen.</p>
-<p>Hvor høy horisontal hastighet $v_0$ må svømmeren minst ha på toppen av klippen for å akkurat unngå utspringet?</p>
+<h2 id="Oppgave-1">Oppgave 1<a class="anchor-link" href="#Oppgave-1">&#182;</a></h2><center><img src="figurer/oving2_oppgave_stup.png" alt="" style="width: 250px;"/></center><p>En stuper hopper fra en klippe som har et horisontalt utspring som vist i figuren ovenfor. Utspringet har bredde $d=1,75 \text{ m}$ og befinner seg en høyde $h=9,00 \text{ m}$ nedenfor toppen av klippen.</p>
+<p>Hvor høy horisontal hastighet $v_0$ må stuperen minst ha på toppen av klippen for å akkurat unngå utspringet?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Oppgave-2">Oppgave 2<a class="anchor-link" href="#Oppgave-2">&#182;</a></h2><p>To fjærdrevne kanoner med munninger i samme punkt avfyres samtidig. De skyter kuler med samme startfart, men i hver sin vinkel, som illustrert i figuren under. Begge kanoner har munning på bakkenivå, samme som blinkene A og B. Den grønne kanonen skyter mer vertikalt mot blink A, mens den blå skyter mer horisontalt mot blink B. Vi ser bort i fra luftmotstand.</p>
+<h2 id="Oppgave-2">Oppgave 2<a class="anchor-link" href="#Oppgave-2">&#182;</a></h2><p>To kanoner med munninger i samme punkt avfyres samtidig. De skyter kuler med samme startfart, men i hver sin vinkel, som illustrert i figuren under. Begge kanoner har munning på bakkenivå, samme som blinkene A og B. Den grønne kanonen skyter mer vertikalt mot blink A, mens den blå skyter mer horisontalt mot blink B. Vi ser bort i fra luftmotstand.</p>
 <center><img src="figurer/oving2_to_ulike_startvinkler.png" alt="" style="width: 250px;"/></center><p>Hvilke av følgende påstander er riktige?</p>
 <p>A. Den grønne kanonen treffer blink A først.</p>
 <p>B. Den blå kanonen treffer blink B først.</p>
@@ -14285,7 +14285,7 @@ a.anchor-link {
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h1 id="Oppgave-3">Oppgave 3<a class="anchor-link" href="#Oppgave-3">&#182;</a></h1><p>En fjærkanon skyter en kule med startfart $v_0$  mot en blink som ligger i en horisontal avstand 
 $x$  og vertikal avstand $y$  fra munningen, som illustrert i figuren under.</p>
-<center><img src="figurer/oppgave_skrått_kast.png" alt="" style="width: 250px;"/></center><p>a) Sett opp en trigonometrisk likning for utskytingsvinkelen, $α$, uttrykt ved $v_0$, $x$ og $y$.</p>
+<center><img src="figurer/oppgave_skrått_kast.png" alt="" style="width: 250px;"/></center><p>a) Utskytingsvinkelen $\alpha$ skal justeres slik at kula treffer midt i blinken. Sett opp en trigonometrisk likning for $\alpha$, uttrykt ved $v_0$, $x$ og $y$.</p>
 <p>b) Vi skal løse likninga numerisk i Python med funksjonen <code>fsolve</code> fra pakken <code>scipy.optimize</code>. Denne forutsetter at likninga som skal løses, skrives på formen $f(x)=0$, dvs. $f(x)$ er venstresiden i likninga når alle ledd er flyttet over slik at høyresiden er null.</p>
 <p>Dersom vi velger positiv $y$-retning <strong>oppover</strong>, bestem funksjonen $f(\alpha)$ for å kunne løse likninga i a) ved hjelp av <code>fsolve</code>.</p>
 <p>A. $f(\alpha)=y+\frac{1}{2}\frac{gx^2}{v_0^2 \cos^2 \alpha}$</p>
@@ -14293,23 +14293,24 @@ $x$  og vertikal avstand $y$  fra munningen, som illustrert i figuren under.</p>
 <p>C. $f(\alpha)=y-\frac{1}{2}\frac{gx^2}{v_0^2 \cos^2 \alpha}+x \tan \alpha$</p>
 <p>D. $f(\alpha)=-y+\frac{1}{2}\frac{gx^2}{v_0^2 \cos^2 \alpha}-x \tan \alpha$</p>
 <p>E. $f(\alpha)=-y+\frac{1}{2}\frac{gx^2}{v_0^2 \cos^2 \alpha}$</p>
-<p>c) Hva må utskytingsvinkelen $\alpha$ være for at kula skal treffe midt i blinken dersom startfarten $v_0 = 4,0 \text{ m/s}$, $x = 1,5 \text{ m}$ og $y = 0,40 \text{ m}$? NB! Pass på valget av positiv vertikalretning! Det kan finnes flere gyldige vinkler. Eksempelkoden nederst viser et eksempel på bruken av fsolve.</p>
+<p>c) Hva må utskytingsvinkelen $\alpha$ være for at kula skal treffe midt i blinken dersom startfarten $v_0 = 4,0 \text{ m/s}$, $x = 1,5 \text{ m}$ og $y = 0,40 \text{ m}$? NB! Pass på valget av positiv vertikalretning! Det kan finnes flere gyldige vinkler. Bakest i øvinga finnes eksempelkode som viser et eksempel på bruken av <code>fsolve</code>.</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Oppgave-4">Oppgave 4<a class="anchor-link" href="#Oppgave-4">&#182;</a></h2><p>a) En bil starter med null startfart og kjører med jevnt økende banefart i en sirkelformet rundkjøring. En passasjer i bilen bruker akselerometrene i mobiltelefonen til å måle baneakselersjonen $a_{\parallel}$ og sentripetalakselerasjonen $a_{\perp}$ til bilen som funksjon av tiden.</p>
+<h2 id="Oppgave-4">Oppgave 4<a class="anchor-link" href="#Oppgave-4">&#182;</a></h2><p>a) En bil starter med null startfart og kjører med jevnt økende banefart i en sirkelformet rundkjøring. En passasjer i bilen bruker akselerometrene i mobiltelefonen til å måle baneakselerasjonen $a_{\parallel}$ og sentripetalakselerasjonen $a_{\perp}$ til bilen som funksjon av tiden.</p>
 <p>Hvilken av grafene under viser $a_{\parallel}(t)$ og $a_{\perp}(t)$ for bilen?</p>
-<center><img src="figurer/oving2_oppgave_sirkelbevegelse_akselerasjon.png" alt="" style="width: 600px;"/></center><p>b) Hvor stor er baneakselerasjonen $a_{\parallel}$, sentripetalakselerasjonen $a_{\perp}$ og den totale akselerasjonen $a=|\vec{a}|=|\vec{a}_{\parallel}+\vec{a}_{\perp}|$ idet banefarten er $60 \textrm{ km/h}$ dersom sirkelradien er $60 \textrm{ m}$ og bilens banefart øker jevnt fra null til $60 \textrm{ km/h}$?</p>
+<center><img src="figurer/oving2_oppgave_sirkelbevegelse_akselerasjon.png" alt="" style="width: 600px;"/></center><p>b) Hvor stor er baneakselerasjonen $a_{\parallel}$, sentripetalakselerasjonen $a_{\perp}$ og den totale akselerasjonen $a=|\vec{a}|=|\vec{a}_{\parallel}+\vec{a}_{\perp}|$ idet banefarten er $60 \textrm{ km/h}$ dersom sirkelradien er $60 \textrm{ m}$ og bilens banefart øker jevnt fra null til $60 \textrm{ km/h}$ i løpet av $6,0 \textrm{ s}$?</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Oppgave-5">Oppgave 5<a class="anchor-link" href="#Oppgave-5">&#182;</a></h2><p>Et trafikklys med masse $m$ henger i to identiske tau som danner en vinkel $\theta$ med horisontalplanet, som vist på figuren under.</p>
-<center><img src="figurer/oppgave_skilt_statikk.png" alt="" style="width: 400px;"/></center><p>a) Vinkelen $\theta$ kan justeres ved å gjøre tauene kortere/lengre, dvs. strammere/slakkere. Finn snordraget som funksjon av vinkelen $\theta$. Hva skjer med snordraget når $\theta \rightarrow 0$?</p>
-<p>b) Bestem draget i hvert tau dersom $m=50 \textrm{ kg}$ og $\theta=30^{\circ}$.</p>
+<h2 id="Oppgave-5">Oppgave 5<a class="anchor-link" href="#Oppgave-5">&#182;</a></h2><p>En kasse med masse $m$ henger i to identiske tau som danner en vinkel $\theta$ med horisontalplanet, som vist på figuren under.</p>
+<center><img src="figurer/oppgave_skilt_statikk.png" alt="" style="width: 400px;"/></center><p>a) Vinkelen $\theta$ kan justeres ved å gjøre tauene kortere/lengre, dvs. strammere/slakkere. Finn snordraget som funksjon av vinkelen $\theta$.</p>
+<p>b) Hva skjer med snordraget når $\theta \rightarrow 0$?</p>
+<p>c) Bestem draget i hvert tau dersom $m=50 \textrm{ kg}$ og $\theta=30^{\circ}$.</p>
 
 </div>
 </div>
