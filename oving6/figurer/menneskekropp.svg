@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="menneskekropp.svg"
+   inkscape:export-filename="menneskekropp.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,12 +28,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.6819304"
-     inkscape:cx="177.77192"
-     inkscape:cy="169.15087"
-     inkscape:window-width="1368"
-     inkscape:window-height="850"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:cx="121.88376"
+     inkscape:cy="141.50407"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2728"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -77,6 +80,44 @@
          d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
          id="Diamond1-5" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="7.2124891"
+       markerHeight="7.2124891"
+       viewBox="0 0 7.2124892 7.2124892"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="Diamond1-51" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond-5-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="7.2124891"
+       markerHeight="7.2124891"
+       viewBox="0 0 7.2124892 7.2124892"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="Diamond1-51-0" />
+    </marker>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -101,17 +142,17 @@
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.465"
        id="rect578"
-       width="5.5011954"
+       width="7.2315979"
        height="32.925407"
        x="27.808622"
        y="50.500458" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.465"
-       id="rect578-1"
-       width="5.5011954"
+       id="rect578-8"
+       width="7.2315979"
        height="32.925407"
-       x="41.925251"
-       y="50.551067" />
+       x="40.509464"
+       y="50.708378" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.465001"
        id="rect578-5-6-0"
@@ -184,18 +225,22 @@
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;stroke-width:0.264583"
-       x="43.41737"
-       y="64.81144"
+       x="44.754498"
+       y="65.204712"
        id="text861"><tspan
          sodipodi:role="line"
          id="tspan859"
          style="stroke-width:0.264583"
-         x="43.41737"
-         y="64.81144">4</tspan></text>
+         x="44.754498"
+         y="65.204712">4</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.990001, 0.165;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 37.911547,3.9685977 38.226166,82.587906"
+       d="m 37.911547,3.968501 0.314619,80.176788"
        id="path863" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.989999, 0.165;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 44.282574,50.438097 0.314619,33.099758"
+       id="path863-7" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Diamond);marker-end:url(#Diamond)"
        d="m 38.865816,13.17355 h 4.678522"
@@ -226,5 +271,35 @@
          style="stroke-width:0.264583"
          x="41.297192"
          y="6.781435">2r</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Diamond-5);marker-end:url(#Diamond-5)"
+       d="m 39.151206,84.871917 h 4.678522"
+       id="path2145-9" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;stroke-width:0.264583"
+       x="39.939671"
+       y="89.244568"
+       id="text2390-5"><tspan
+         sodipodi:role="line"
+         id="tspan2388-0"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="39.939671"
+         y="89.244568">r</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Diamond-5-4);marker-end:url(#Diamond-5-4)"
+       d="m 45.256529,84.924735 h 2.441964"
+       id="path2145-9-6" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;stroke-width:0.264583"
+       x="44.969894"
+       y="89.378845"
+       id="text2390-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan2388-0-0"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="44.969894"
+         y="89.378845">2r/3</tspan></text>
   </g>
 </svg>
