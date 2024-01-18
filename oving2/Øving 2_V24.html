@@ -14286,14 +14286,14 @@ a.anchor-link {
 <h1 id="Oppgave-3">Oppgave 3<a class="anchor-link" href="#Oppgave-3">&#182;</a></h1><p>En fjærkanon skyter en kule med startfart $v_0$  mot en blink som ligger i en horisontal avstand 
 $x$  og vertikal avstand $y$  fra munningen, som illustrert i figuren under.</p>
 <center><img src="figurer/oppgave_skrått_kast.png" alt="" style="width: 250px;"/></center><p>a) Utskytingsvinkelen $\alpha$ skal bestemmes slik at kula treffer midt i blinken. Dette kan vi gjøre ved å sette opp en trigonometrisk likning for $\alpha$, uttrykt ved $v_0$, $x$ og $y$.</p>
-<p>Vi skal løse likninga numerisk i Python med funksjonen <code>fsolve</code> fra pakken <code>scipy.optimize</code>. Denne forutsetter at likninga som skal løses, skrives på formen $f(x)=0$, dvs. $f(x)$ er venstresiden i likninga når alle ledd er flyttet over slik at høyresiden er null.</p>
-<p>Dersom vi velger positiv $y$-retning <strong>oppover</strong>, bestem funksjonen $f(\alpha)$ for å kunne løse likninga ved hjelp av <code>fsolve</code>.</p>
+<p>Vi skal løse likninga for $\alpha$ numerisk i Python med funksjonen <code>fsolve</code> fra pakken <code>scipy.optimize</code>. Denne forutsetter at likninga som skal løses, skrives på formen $f(\alpha)=0$, dvs. $f(\alpha)$ er venstresiden i likninga når alle ledd er flyttet over slik at høyresiden er null.</p>
+<p>Dersom vi velger positiv $y$-retning <strong>oppover</strong> (slik at $y&lt;0$ på bakkenivå), bestem funksjonen $f(\alpha)$ for å kunne løse likninga ved hjelp av <code>fsolve</code>.</p>
 <p>A. $f(\alpha)=y+\frac{1}{2}\frac{gx^2}{v_0^2 \cos^2 \alpha}$</p>
 <p>B. $f(\alpha)=y+\frac{1}{2}\frac{gx^2}{v_0^2 \cos^2 \alpha}-x \tan \alpha$</p>
 <p>C. $f(\alpha)=y-\frac{1}{2}\frac{gx^2}{v_0^2 \cos^2 \alpha}+x \tan \alpha$</p>
 <p>D. $f(\alpha)=-y+\frac{1}{2}\frac{gx^2}{v_0^2 \cos^2 \alpha}-x \tan \alpha$</p>
 <p>E. $f(\alpha)=-y+\frac{1}{2}\frac{gx^2}{v_0^2 \cos^2 \alpha}$</p>
-<p>b) Hva må utskytingsvinkelen $\alpha$ være for at kula skal treffe midt i blinken dersom startfarten $v_0 = 4,0 \text{ m/s}$, $x = 1,5 \text{ m}$ og $y = 0,40 \text{ m}$? NB! Pass på valget av positiv vertikalretning! Det kan finnes flere gyldige vinkler. Bakest i øvinga finnes eksempelkode som viser et eksempel på bruken av <code>fsolve</code>.</p>
+<p>b) Hva må utskytingsvinkelen $\alpha$ være for at kula skal treffe midt i blinken dersom startfarten $v_0 = 4,0 \text{ m/s}$, $x = 1,5 \text{ m}$ og blinken ligger en vertikal avstand $0,40 \text{ m}$ under utskytingspunktet? NB! Pass på valget av positiv vertikalretning! Det kan finnes flere gyldige vinkler. Bakest i øvinga finnes eksempelkode som viser et eksempel på bruken av <code>fsolve</code>.</p>
 
 </div>
 </div>
