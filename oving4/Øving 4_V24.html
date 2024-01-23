@@ -14259,7 +14259,7 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="&#216;ving-4">&#216;ving 4<a class="anchor-link" href="#&#216;ving-4">&#182;</a></h1><h2 id="Oppgave-1">Oppgave 1<a class="anchor-link" href="#Oppgave-1">&#182;</a></h2><p>Kula i et flipperspill skytes ut fra en fjærbelastet avtrekker. Spilleren trekker i fjæra slik at den presses sammen en avstand $x=7,0 \textrm{ cm}$. Massen til kula er $80 \textrm{ g}$, og flipperspillet har en helningsvinkel $\theta=15^{\circ}$. Se figuren under.</p>
+<h1 id="&#216;ving-4">&#216;ving 4<a class="anchor-link" href="#&#216;ving-4">&#182;</a></h1><h2 id="Oppgave-1">Oppgave 1<a class="anchor-link" href="#Oppgave-1">&#182;</a></h2><p>Kula i et flipperspill skytes ut fra en fjærbelastet avtrekker. Spilleren trekker i fjæra slik at den presses sammen en avstand $x=7,0 \textrm{ cm}$. Massen til kula er $80 \textrm{ g}$, og flipperspillet har en helningsvinkel $\theta=15^{\circ}$. Kula sklir friksjonsfritt mot underlaget. Se figuren under.</p>
 <center><img src="figurer/pinball_fjær.png" alt="" style="width: 500px;"/></center><p>Hvor stor må fjærkonstanten $k$ til fjæra være dersom kula akkurat skal nå toppen av flipperspillet, som ligger en avstand $s=78 \textrm{ cm}$ fra punktet der kula forlater fjæra (i punktet der fjæra er slapp)?</p>
 
 </div>
@@ -14307,7 +14307,7 @@ C. <code>return k*(v/3,6)**2</code>
 D. <code>return k*(v*3.6)**2</code>
 E. <code>return k*(v*3,6)**2</code></p>
 <p>c) Ta utgangspunkt i den ferdige rutinen for Eulers metode med tidssteg $\Delta t = 0,10 \textrm{ s}$ til å beregne tiden $t$ det tar det før hopperne har nådd 98 % av sine terminalhastigheter, og den vertikale høyden $h$ hopperen har falt på dette tidspunktet (målt fra startpunktet).</p>
-<p>[Hint: Numpy-funksjonen <code>argmax</code> kan brukes til å finne den laveste/første indeksen der elementene i en Numpy-array oppfyller en viss betingelse. Eksempel: for <code>a=np.array([0.1,2.4,4.0,9.4])</code>  vil <code>np.argmax(a&gt;3)</code>  returnere <code>2</code> , dvs. <code>a[2]=4.0</code>  er det første elementet som oppfyller a&gt;3.]</p>
+<p>[Hint: Numpy-funksjonen <code>argmax</code> kan brukes til å finne den laveste/første indeksen der elementene i en NumPy-array oppfyller en viss betingelse. Eksempel: for <code>a=np.array([0.1,2.4,4.0,9.4])</code>  vil <code>np.argmax(a&gt;3)</code>  returnere <code>2</code> , dvs. <code>a[2]=4.0</code>  er det første elementet som oppfyller a&gt;3.]</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
@@ -14326,7 +14326,7 @@ E. <code>return k*(v*3,6)**2</code></p>
 <span class="n">g</span><span class="o">=</span><span class="mf">9.81</span> <span class="c1">#Tyngdeakselerasjonen i m/s^2</span>
 
 <span class="k">def</span> <span class="nf">drag</span><span class="p">(</span><span class="n">A</span><span class="p">,</span><span class="n">C</span><span class="p">,</span><span class="n">v</span><span class="p">):</span>
-    <span class="n">rho</span><span class="o">=</span><span class="mf">1.28</span> 
+    <span class="n">rho</span><span class="o">=</span><span class="mf">1.29</span> 
     <span class="n">k</span><span class="o">=</span><span class="mf">0.5</span><span class="o">*</span><span class="n">rho</span><span class="o">*</span><span class="n">A</span><span class="o">*</span><span class="n">C</span>
     <span class="c1">#? Her må du legge inn riktig kode for at funksjonen skal returnere luftmotstanden (drag) i newton</span>
 
