@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="oppgave_matematisk_og_fysisk_pendel.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   id="svg17856"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ns1="http://www.iki.fi/pav/software/textext/">
+  <defs
+     id="defs17850">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DiamondSstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondSstart"
+       viewBox="0 0 3.2055508 3.2055508"
+       markerWidth="3.2055507"
+       markerHeight="3.2055507"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path996" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1165"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondSend"
+       viewBox="0 0 3.2055508 3.2055508"
+       markerWidth="3.2055507"
+       markerHeight="3.2055507"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(0.2,0,0,0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path1005" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1164"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondSend">
+      <path
+         transform="scale(0.2) translate(-6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path1162" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DiamondSend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondSend">
+      <path
+         transform="scale(0.2) translate(-6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path1001" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1165-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondSend">
+      <path
+         transform="matrix(0.2,0,0,0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path1005-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DiamondSstart-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondSstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path996-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1165-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondSend">
+      <path
+         transform="matrix(0.2,0,0,0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path1005-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DiamondSstart-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondSstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path996-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1165-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondSend"
+       viewBox="0 0 3.2055508 3.2055508"
+       markerWidth="3.2055507"
+       markerHeight="3.2055507"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(0.2,0,0,0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path1005-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DiamondSstart-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondSstart"
+       viewBox="0 0 3.2055508 3.2055508"
+       markerWidth="3.2055507"
+       markerHeight="3.2055507"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path996-4" />
+    </marker>
+    <g
+       id="id-150b9160-f848-419a-a8fe-ad0c7f80158a-6">
+      <g
+         id="id-cc146c11-3016-45f8-9c6a-47a0f74caffb-6" />
+      <g
+         id="id-de629a4a-5be7-4d97-9398-c91af8461c86-1">
+        <path
+           d="m 0.875,-0.59375 c -0.03125,0.15625 -0.09375,0.390625 -0.09375,0.4375 0,0.171875 0.140625,0.265625 0.296875,0.265625 0.125,0 0.296875,-0.078125 0.375,-0.28125 C 1.46875,-0.203125 1.796875,-1.5625 1.84375,-1.75 c 0.078125,-0.328125 0.265625,-1.015625 0.3125,-1.296875 0.046875,-0.125 0.328125,-0.59375 0.5625,-0.8125 0.078125,-0.0625 0.375,-0.328125 0.796875,-0.328125 0.265625,0 0.40625,0.125 0.421875,0.125 -0.296875,0.046875 -0.515625,0.28125 -0.515625,0.546875 0,0.15625 0.109375,0.34375 0.375,0.34375 0.265625,0 0.546875,-0.234375 0.546875,-0.59375 0,-0.34375 -0.3125,-0.640625 -0.828125,-0.640625 C 2.875,-4.40625 2.4375,-3.921875 2.25,-3.640625 2.15625,-4.09375 1.796875,-4.40625 1.328125,-4.40625 0.875,-4.40625 0.6875,-4.015625 0.59375,-3.84375 0.421875,-3.5 0.296875,-2.90625 0.296875,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.15625,0 0.296875,0.078125 0.296875,0.453125 0,0.21875 -0.03125,0.328125 -0.15625,0.84375 z m 0,0"
+           id="id-1e2f8287-4d75-449a-927b-cebbc3c4d51e-9" />
+      </g>
+      <g
+         id="id-7145eabc-1662-494f-9765-b6826798b0cd-2">
+        <path
+           d="M 3.734375,-6.03125 C 3.8125,-6.390625 3.84375,-6.5 4.78125,-6.5 c 0.296875,0 0.375,0 0.375,-0.1875 0,-0.125 -0.109375,-0.125 -0.15625,-0.125 -0.328125,0 -1.140625,0.03125 -1.46875,0.03125 -0.296875,0 -1.03125,-0.03125 -1.328125,-0.03125 -0.0625,0 -0.1875,0 -0.1875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.015625,0 0.203125,0 0.375,0.015625 0.171875,0.03125 0.265625,0.03125 0.265625,0.171875 0,0.03125 0,0.0625 -0.03125,0.1875 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.265625,0 -0.265625,0.203125 C 0.390625,0 0.484375,0 0.65625,0 h 4.625 C 5.515625,0 5.515625,0 5.578125,-0.171875 L 6.375,-2.328125 c 0.03125,-0.109375 0.03125,-0.125 0.03125,-0.140625 0,-0.03125 -0.03125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.0625 -0.171875,0.21875 -0.34375,0.90625 -0.78125,2.046875 -2.5,2.046875 H 2.6875 c -0.140625,0 -0.171875,0 -0.21875,0 -0.109375,-0.015625 -0.140625,-0.03125 -0.140625,-0.109375 0,-0.03125 0,-0.046875 0.046875,-0.21875 z m 0,0"
+           id="id-0f17ce4f-558a-4d2b-afc7-071459120f40-9" />
+      </g>
+      <g
+         id="id-1812a9d9-2ba5-423d-8369-d779dab674e1-5">
+        <path
+           d="m 4.375,-7.09375 c 0.046875,-0.140625 0.046875,-0.171875 0.046875,-0.1875 0,-0.109375 -0.078125,-0.203125 -0.1875,-0.203125 -0.078125,0 -0.140625,0.03125 -0.171875,0.09375 l -3.46875,9.5 C 0.546875,2.25 0.546875,2.28125 0.546875,2.296875 0.546875,2.40625 0.640625,2.5 0.75,2.5 0.875,2.5 0.90625,2.421875 0.96875,2.25 Z m 0,0"
+           id="id-e49b9272-33f2-4b35-a576-4f4a58a81e39-3" />
+      </g>
+      <g
+         id="id-78814b76-6454-4bf3-9a91-0211a61d3b9e-9" />
+      <g
+         id="id-75254a15-efad-41aa-826f-36d76e60692b-2">
+        <path
+           d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 h -5.96875 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 H 0.890625 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+           id="id-8087cf8b-2875-43f7-b03a-4643a83a09a4-2" />
+      </g>
+      <g
+         id="id-68dba1ff-d6f4-4d71-adea-076c31124fc1-0">
+        <path
+           d="m 4.46875,-2 c 0,-1.1875 -0.8125,-2.1875 -1.890625,-2.1875 -0.46875,0 -0.90625,0.15625 -1.265625,0.515625 V -5.625 c 0.203125,0.0625 0.53125,0.125 0.84375,0.125 1.234375,0 1.9375,-0.90625 1.9375,-1.03125 0,-0.0625 -0.03125,-0.109375 -0.109375,-0.109375 0,0 -0.03125,0 -0.078125,0.03125 C 3.703125,-6.515625 3.21875,-6.3125 2.546875,-6.3125 2.15625,-6.3125 1.6875,-6.390625 1.21875,-6.59375 1.140625,-6.625 1.125,-6.625 1.109375,-6.625 1,-6.625 1,-6.546875 1,-6.390625 V -3.4375 c 0,0.171875 0,0.25 0.140625,0.25 0.078125,0 0.09375,-0.015625 0.140625,-0.078125 C 1.390625,-3.421875 1.75,-3.96875 2.5625,-3.96875 c 0.515625,0 0.765625,0.453125 0.84375,0.640625 0.15625,0.375 0.1875,0.75 0.1875,1.25 0,0.359375 0,0.953125 -0.25,1.375 C 3.109375,-0.3125 2.734375,-0.0625 2.28125,-0.0625 c -0.71875,0 -1.296875,-0.53125 -1.46875,-1.109375 0.03125,0 0.0625,0.015625 0.171875,0.015625 0.328125,0 0.5,-0.25 0.5,-0.484375 0,-0.25 -0.171875,-0.5 -0.5,-0.5 C 0.84375,-2.140625 0.5,-2.0625 0.5,-1.609375 0.5,-0.75 1.1875,0.21875 2.296875,0.21875 3.453125,0.21875 4.46875,-0.734375 4.46875,-2 Z m 0,0"
+           id="id-a04f2fae-9a24-4a29-b2ce-2563de07efea-7" />
+      </g>
+    </g>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:snap-global="false"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="849"
+     inkscape:window-width="1368"
+     showgrid="true"
+     inkscape:current-layer="g2898"
+     inkscape:document-units="mm"
+     inkscape:cy="236.42857"
+     inkscape:cx="209.46429"
+     inkscape:zoom="2.8"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid18404"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata17853">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       inkscape:export-filename="oppgave_matematisk_og_fysisk_pendel.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:connector-curvature="0"
+       id="path18410"
+       d="M 38.802338,30.354195 V 60.78128"
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-filename="oppgave_matematisk_og_fysisk_pendel.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:connector-curvature="0"
+       id="path18410-5"
+       d="M 71.561418,30.489547 V 60.854164"
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       r="0.82682282"
+       cy="61.513615"
+       cx="38.755104"
+       id="path18408-1"
+       style="opacity:1;fill:#808080;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text18414-3-8"
+       y="29.104166"
+       x="51.303673"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="29.104166"
+         x="51.303673"
+         id="tspan18412-9-7"
+         sodipodi:role="line"> B</tspan></text>
+    <text
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text827"
+       y="62.947113"
+       x="33.377037"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="62.947113"
+         x="33.377037"
+         id="tspan825"
+         sodipodi:role="line">m</tspan></text>
+    <text
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text827-7"
+       y="48.947918"
+       x="39.6875"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="48.947918"
+         x="39.6875"
+         id="tspan825-3"
+         sodipodi:role="line">L</tspan></text>
+    <path
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:connector-curvature="0"
+       id="path18410-8"
+       d="M 54.239583,31.242155 V 61.362012"
+       style="fill:none;stroke:#000000;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text18414-3-8-1"
+       y="29.104166"
+       x="36.536961"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="29.104166"
+         x="36.536961"
+         id="tspan18412-9-7-2"
+         sodipodi:role="line"> A</tspan></text>
+    <text
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text827-7-3"
+       y="49.272812"
+       x="58.551701"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="49.272812"
+         x="58.551701"
+         id="tspan825-3-4"
+         sodipodi:role="line">L</tspan></text>
+    <text
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text827-3-4"
+       y="45.838718"
+       x="49.564587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="45.838718"
+         x="49.564587"
+         id="tspan825-1-4"
+         sodipodi:role="line">m</tspan></text>
+    <ellipse
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       r="0.41750002"
+       transform="scale(-1)"
+       cy="-88.375816"
+       cx="-100.61419"
+       id="path885"
+       style="opacity:1;fill:#ff0000;stroke:#ff0000;stroke-width:1.16499996;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-dasharray:none"
+       id="path5203"
+       cx="54.229122"
+       cy="30.895735"
+       rx="0.36752161"
+       ry="0.36750054" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker1165);marker-end:url(#DiamondSstart)"
+       d="M 55.940473,60.705878 V 31.983176"
+       id="path5616" />
+    <ellipse
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.265;stroke-linejoin:round"
+       id="path867"
+       cx="71.4375"
+       cy="65.721664"
+       rx="4.8674998"
+       ry="4.8675003" />
+    <text
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text827-8"
+       y="67.410873"
+       x="69.40834"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="67.410873"
+         x="69.40834"
+         id="tspan825-37"
+         sodipodi:role="line">m</tspan></text>
+    <text
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text18414-3-8-8"
+       y="28.480261"
+       x="68.402718"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="28.480261"
+         x="68.402718"
+         id="tspan18412-9-7-3"
+         sodipodi:role="line"> C</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker1165);marker-end:url(#DiamondSstart)"
+       d="M 78.052083,65.543328 V 61.456672"
+       id="path2555" />
+    <g
+       transform="matrix(0.529167,0,0,0.529167,80.044619,61.564677)"
+       ns1:version="1.8.2"
+       ns1:texconverter="pdflatex"
+       ns1:pdfconverter="inkscape"
+       ns1:text="$r=L/5$"
+       ns1:preamble="C:\Users\knutb\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+       ns1:scale="1.5"
+       ns1:alignment="middle center"
+       ns1:stroke-to-path="0"
+       ns1:inkscapeversion="1.2.2"
+       ns1:jacobian_sqrt="0.529167"
+       id="g2898">
+      <defs
+         id="id-f6e7e43d-820b-46b3-b846-9438007ddfc2">
+        <g
+           id="id-150b9160-f848-419a-a8fe-ad0c7f80158a">
+          <g
+             id="id-cc146c11-3016-45f8-9c6a-47a0f74caffb" />
+          <g
+             id="id-de629a4a-5be7-4d97-9398-c91af8461c86">
+            <path
+               d="m 0.875,-0.59375 c -0.03125,0.15625 -0.09375,0.390625 -0.09375,0.4375 0,0.171875 0.140625,0.265625 0.296875,0.265625 0.125,0 0.296875,-0.078125 0.375,-0.28125 C 1.46875,-0.203125 1.796875,-1.5625 1.84375,-1.75 c 0.078125,-0.328125 0.265625,-1.015625 0.3125,-1.296875 0.046875,-0.125 0.328125,-0.59375 0.5625,-0.8125 0.078125,-0.0625 0.375,-0.328125 0.796875,-0.328125 0.265625,0 0.40625,0.125 0.421875,0.125 -0.296875,0.046875 -0.515625,0.28125 -0.515625,0.546875 0,0.15625 0.109375,0.34375 0.375,0.34375 0.265625,0 0.546875,-0.234375 0.546875,-0.59375 0,-0.34375 -0.3125,-0.640625 -0.828125,-0.640625 C 2.875,-4.40625 2.4375,-3.921875 2.25,-3.640625 2.15625,-4.09375 1.796875,-4.40625 1.328125,-4.40625 0.875,-4.40625 0.6875,-4.015625 0.59375,-3.84375 0.421875,-3.5 0.296875,-2.90625 0.296875,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.15625,0 0.296875,0.078125 0.296875,0.453125 0,0.21875 -0.03125,0.328125 -0.15625,0.84375 z m 0,0"
+               id="id-1e2f8287-4d75-449a-927b-cebbc3c4d51e" />
+          </g>
+          <g
+             id="id-7145eabc-1662-494f-9765-b6826798b0cd">
+            <path
+               d="M 3.734375,-6.03125 C 3.8125,-6.390625 3.84375,-6.5 4.78125,-6.5 c 0.296875,0 0.375,0 0.375,-0.1875 0,-0.125 -0.109375,-0.125 -0.15625,-0.125 -0.328125,0 -1.140625,0.03125 -1.46875,0.03125 -0.296875,0 -1.03125,-0.03125 -1.328125,-0.03125 -0.0625,0 -0.1875,0 -0.1875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.015625,0 0.203125,0 0.375,0.015625 0.171875,0.03125 0.265625,0.03125 0.265625,0.171875 0,0.03125 0,0.0625 -0.03125,0.1875 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.265625,0 -0.265625,0.203125 C 0.390625,0 0.484375,0 0.65625,0 h 4.625 C 5.515625,0 5.515625,0 5.578125,-0.171875 L 6.375,-2.328125 c 0.03125,-0.109375 0.03125,-0.125 0.03125,-0.140625 0,-0.03125 -0.03125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.0625 -0.171875,0.21875 -0.34375,0.90625 -0.78125,2.046875 -2.5,2.046875 H 2.6875 c -0.140625,0 -0.171875,0 -0.21875,0 -0.109375,-0.015625 -0.140625,-0.03125 -0.140625,-0.109375 0,-0.03125 0,-0.046875 0.046875,-0.21875 z m 0,0"
+               id="id-0f17ce4f-558a-4d2b-afc7-071459120f40" />
+          </g>
+          <g
+             id="id-1812a9d9-2ba5-423d-8369-d779dab674e1">
+            <path
+               d="m 4.375,-7.09375 c 0.046875,-0.140625 0.046875,-0.171875 0.046875,-0.1875 0,-0.109375 -0.078125,-0.203125 -0.1875,-0.203125 -0.078125,0 -0.140625,0.03125 -0.171875,0.09375 l -3.46875,9.5 C 0.546875,2.25 0.546875,2.28125 0.546875,2.296875 0.546875,2.40625 0.640625,2.5 0.75,2.5 0.875,2.5 0.90625,2.421875 0.96875,2.25 Z m 0,0"
+               id="id-e49b9272-33f2-4b35-a576-4f4a58a81e39" />
+          </g>
+          <g
+             id="id-78814b76-6454-4bf3-9a91-0211a61d3b9e" />
+          <g
+             id="id-75254a15-efad-41aa-826f-36d76e60692b">
+            <path
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 h -5.96875 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 H 0.890625 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               id="id-8087cf8b-2875-43f7-b03a-4643a83a09a4" />
+          </g>
+          <g
+             id="id-68dba1ff-d6f4-4d71-adea-076c31124fc1">
+            <path
+               d="m 4.46875,-2 c 0,-1.1875 -0.8125,-2.1875 -1.890625,-2.1875 -0.46875,0 -0.90625,0.15625 -1.265625,0.515625 V -5.625 c 0.203125,0.0625 0.53125,0.125 0.84375,0.125 1.234375,0 1.9375,-0.90625 1.9375,-1.03125 0,-0.0625 -0.03125,-0.109375 -0.109375,-0.109375 0,0 -0.03125,0 -0.078125,0.03125 C 3.703125,-6.515625 3.21875,-6.3125 2.546875,-6.3125 2.15625,-6.3125 1.6875,-6.390625 1.21875,-6.59375 1.140625,-6.625 1.125,-6.625 1.109375,-6.625 1,-6.625 1,-6.546875 1,-6.390625 V -3.4375 c 0,0.171875 0,0.25 0.140625,0.25 0.078125,0 0.09375,-0.015625 0.140625,-0.078125 C 1.390625,-3.421875 1.75,-3.96875 2.5625,-3.96875 c 0.515625,0 0.765625,0.453125 0.84375,0.640625 0.15625,0.375 0.1875,0.75 0.1875,1.25 0,0.359375 0,0.953125 -0.25,1.375 C 3.109375,-0.3125 2.734375,-0.0625 2.28125,-0.0625 c -0.71875,0 -1.296875,-0.53125 -1.46875,-1.109375 0.03125,0 0.0625,0.015625 0.171875,0.015625 0.328125,0 0.5,-0.25 0.5,-0.484375 0,-0.25 -0.171875,-0.5 -0.5,-0.5 C 0.84375,-2.140625 0.5,-2.0625 0.5,-1.609375 0.5,-0.75 1.1875,0.21875 2.296875,0.21875 3.453125,0.21875 4.46875,-0.734375 4.46875,-2 Z m 0,0"
+               id="id-a04f2fae-9a24-4a29-b2ce-2563de07efea" />
+          </g>
+        </g>
+      </defs>
+      <g
+         fill="#000000"
+         fill-opacity="1"
+         id="id-bb692d2d-501a-41dd-b128-134e76ba7f17"
+         transform="translate(-149.009,-127.281)">
+        <g
+           transform="translate(148.712,134.765)"
+           id="g2880">
+          <path
+             d="m 0.875,-0.59375 c -0.03125,0.15625 -0.09375,0.390625 -0.09375,0.4375 0,0.171875 0.140625,0.265625 0.296875,0.265625 0.125,0 0.296875,-0.078125 0.375,-0.28125 C 1.46875,-0.203125 1.796875,-1.5625 1.84375,-1.75 c 0.078125,-0.328125 0.265625,-1.015625 0.3125,-1.296875 0.046875,-0.125 0.328125,-0.59375 0.5625,-0.8125 0.078125,-0.0625 0.375,-0.328125 0.796875,-0.328125 0.265625,0 0.40625,0.125 0.421875,0.125 -0.296875,0.046875 -0.515625,0.28125 -0.515625,0.546875 0,0.15625 0.109375,0.34375 0.375,0.34375 0.265625,0 0.546875,-0.234375 0.546875,-0.59375 0,-0.34375 -0.3125,-0.640625 -0.828125,-0.640625 C 2.875,-4.40625 2.4375,-3.921875 2.25,-3.640625 2.15625,-4.09375 1.796875,-4.40625 1.328125,-4.40625 0.875,-4.40625 0.6875,-4.015625 0.59375,-3.84375 0.421875,-3.5 0.296875,-2.90625 0.296875,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.15625,0 0.296875,0.078125 0.296875,0.453125 0,0.21875 -0.03125,0.328125 -0.15625,0.84375 z m 0,0"
+             id="id-502ceebe-5789-4634-ac68-728d491618e3" />
+        </g>
+      </g>
+    </g>
+    <text
+       inkscape:export-filename="C:\Users\knutbjo\OneDrive – NTNU\Nytt fag fysikk kjemi\Faglig materiale\treningsoppgaver\fluid\kapittel14\path18410.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text827-7-34"
+       y="48.947918"
+       x="74.146378"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="48.947918"
+         x="74.146378"
+         id="tspan825-3-2"
+         sodipodi:role="line">L</tspan></text>
+  </g>
+</svg>
