@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg6812"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="oppgave_heisekran_last_dempet_pendel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6814"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="3.1294832"
+     inkscape:cx="207.54225"
+     inkscape:cy="108.48437"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2728"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6897"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6809">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path8308" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 41.182045,11.53474 27.952878,34.024323"
+       id="path6932"
+       inkscape:export-filename="oppgave_heisekran_last_dempet_pendel.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.264582;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect7039"
+       width="3.8988452"
+       height="3.8433855"
+       x="26.101154"
+       y="34.078308"
+       inkscape:export-filename="C:\Users\knutb\OneDrive - NTNU\Nytt fag fysikk kjemi\Faglig materiale\eksamen\eksamen vår 2022\oppgavefigurer\pendel_barn_huske.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5875, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 41.182044,11.53474 V 34.024323"
+       id="path8002"
+       inkscape:export-filename="C:\Users\knutb\OneDrive - NTNU\Nytt fag fysikk kjemi\Faglig materiale\eksamen\eksamen vår 2022\oppgavefigurer\pendel_barn_huske.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.29567303;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow1Send)"
+       id="path8186"
+       sodipodi:type="arc"
+       sodipodi:cx="33.704227"
+       sodipodi:cy="-33.253517"
+       sodipodi:rx="3.8729405"
+       sodipodi:ry="3.2980804"
+       sodipodi:start="0"
+       sodipodi:end="1.4319233"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 37.577168,-33.253517 a 3.8729405,3.2980804 0 0 1 -3.336821,3.266328"
+       transform="matrix(0.30028087,0.95385083,-0.89810266,0.43978587,0,0)"
+       inkscape:export-filename="C:\Users\knutb\OneDrive - NTNU\Nytt fag fysikk kjemi\Faglig materiale\eksamen\eksamen vår 2022\oppgavefigurer\pendel_barn_huske.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:7.7611px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';stroke-width:0.264583"
+       x="36.922077"
+       y="25.249866"
+       id="text9435"
+       inkscape:export-filename="C:\Users\knutb\OneDrive - NTNU\Nytt fag fysikk kjemi\Faglig materiale\eksamen\eksamen vår 2022\oppgavefigurer\pendel_barn_huske.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan9433"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Symbol;-inkscape-font-specification:'Symbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="36.922077"
+         y="25.249866">q</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 41,9.9999997 H 61.000002"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 41,11.692255 H 61.000002"
+       id="path1-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41,11.692255 3.999999,-1.6922553 4.021738,1.6922553 4.663044,-1.6922555 3.288045,1.5599635 4.027176,-1.5599633"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 41,9.9999997 V 11.692255"
+       id="path4" />
+  </g>
+</svg>

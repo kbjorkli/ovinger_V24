@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.3879489"
-     inkscape:cx="279.90943"
-     inkscape:cy="270.54309"
+     inkscape:cx="386.5416"
+     inkscape:cy="266.22017"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="2728"
@@ -51,7 +51,27 @@
        visible="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-2" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -68,7 +88,10 @@
        sodipodi:end="3.1415927"
        sodipodi:arc-type="arc"
        d="m 58.934724,29.255876 a 2.7733603,2.7023983 0 0 1 2.339015,2.944704 2.7733603,2.7023983 0 0 1 -2.899638,2.425437 2.7733603,2.7023983 0 0 1 -2.632843,-2.698927"
-       sodipodi:open="true" />
+       sodipodi:open="true"
+       inkscape:export-filename="oppgave_kvadrat_pendel.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#333333;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 59.300443,29.939019 c -0.04173,-1.619338 -0.04173,-7.206435 -0.04173,-7.206435"
@@ -80,6 +103,14 @@
        height="44.134998"
        x="65.081573"
        y="-18.989199"
+       transform="rotate(46.235287)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.865;stroke-linejoin:round;stroke-dasharray:5.19000006,0.86500001;stroke-dashoffset:0"
+       id="rect1-73"
+       width="44.134998"
+       height="44.134998"
+       x="110.94801"
+       y="-65.633774"
        transform="rotate(46.235287)" />
     <text
        xml:space="preserve"
@@ -147,5 +178,68 @@
          style="stroke-width:0.264583"
          x="43.943192"
          y="80.068268">m</tspan></text>
+    <path
+       style="fill:none;stroke:#333333;stroke-width:1.365;stroke-linejoin:round;stroke-dasharray:none"
+       id="path2-3-9"
+       sodipodi:type="arc"
+       sodipodi:cx="124.73349"
+       sodipodi:cy="33.047268"
+       sodipodi:rx="2.7733603"
+       sodipodi:ry="2.7023983"
+       sodipodi:start="4.8644536"
+       sodipodi:end="3.1415927"
+       sodipodi:arc-type="arc"
+       d="m 125.1536,30.376054 a 2.7733603,2.7023983 0 0 1 2.33901,2.944704 2.7733603,2.7023983 0 0 1 -2.89964,2.425437 2.7733603,2.7023983 0 0 1 -2.63284,-2.698927"
+       sodipodi:open="true"
+       inkscape:export-filename="oppgave_kvadrat_pendel.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 125.51932,31.059198 c -0.0417,-1.619338 -0.0417,-7.206435 -0.0417,-7.206435"
+       id="path3-4-9" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.865;stroke-linejoin:round"
+       id="rect1-7"
+       width="44.134998"
+       height="44.134998"
+       x="128.20248"
+       y="10.707205"
+       transform="rotate(10.820986)" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.265001;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#Triangle-0);marker-end:url(#Triangle-0)"
+       id="path3-0"
+       sodipodi:type="arc"
+       sodipodi:cx="124.392"
+       sodipodi:cy="35.136845"
+       sodipodi:rx="5.2570076"
+       sodipodi:ry="5.3619204"
+       sodipodi:start="0"
+       sodipodi:end="3.2412613"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 129.64901,35.136845 a 5.2570076,5.3619204 0 0 1 -2.78118,4.730049 5.2570076,5.3619204 0 0 1 -5.40082,-0.274744 5.2570076,5.3619204 0 0 1 -2.30593,-4.988836" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-size:4.93889982px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;stroke-width:0.264583;font-weight:normal;font-stretch:normal;font-variant:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="32.216301"
+       y="101.98652"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, Normal';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93889982px;font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="32.216301"
+         y="101.98652">Utgangspunkt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-size:4.93889982px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;stroke-width:0.264583;font-weight:normal;font-stretch:normal;font-variant:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="112.85237"
+       y="102.93967"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, Normal';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93889982px;font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="112.85237"
+         y="102.93967">Satt i svingninger</tspan></text>
   </g>
 </svg>
